@@ -2,10 +2,11 @@
 
 SouravAdmin: Admin dashboard for SouravBooking
 
-Users can log in and perform actions such as viewing, creating, and deleting users, hotels, and rooms according to their account privileges, whether they are an administrator or not
-It would be helpful to modify the content of SouravBooking's website.
-The user, hotels, and room data for my project is fetched from MongoDB. This admin panel is connected to backend API of SouravBooking
-API requests in the admin panel are made using custom hooks and React context API, with Axios used as the underlying HTTP library
+1) Users can log in and perform actions such as viewing, creating, and deleting users, hotels, and rooms according to their account privileges, whether they are an       administrator or not
+2) It would be helpful to modify the content of SouravBooking's website.
+3) The user, hotels, and room data for my project is fetched from MongoDB. This admin panel is connected to backend API of SouravBooking
+4) API requests in the admin panel are made using custom hooks and React context API, with Axios used as the underlying HTTP library
+
 Technologies: HTML, SCSS, JavaScript, React, Node.js, Express.js, MongoDB
 
 ![229998380-4c357652-05bb-4faa-b1b9-fa521175aafb](https://user-images.githubusercontent.com/65517504/230706311-62390720-32a1-46fd-b896-494efb53efdb.png)
